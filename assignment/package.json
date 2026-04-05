@@ -1,0 +1,17 @@
+{
+  "name": "ahmed-mohamed-said-_-sun_wed_8_11_assignment4-_01211179795",
+  "version": "1.0.0",
+  "description": "",
+  "main": "part1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch part1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
